@@ -1,7 +1,6 @@
+![MERN Stak Web Developer](https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t1.6435-9/117201243_2822331948001044_5361984060419603115_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHlFwqwyaVaOKkj3rIVBJ3iqNCU-mJp48Oo0JT6Ymnjw92bB2gfvnaNIQG_mldfHmG7gcf0bdk6zLPyGlnsAhHT&_nc_ohc=FAjnuaTMRFoAX-V7us8&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfDMukRzPmJvOaDb93Uw1lqOZ62LuIXAc2nf3jSHL-3k0w&oe=650E998F)
 ### Hi there 👋, Md Ashikur Rahman Tokder
 #### MERN Stak Web Developer
-![MERN Stak Web Developer](https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t1.6435-9/117201243_2822331948001044_5361984060419603115_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHlFwqwyaVaOKkj3rIVBJ3iqNCU-mJp48Oo0JT6Ymnjw92bB2gfvnaNIQG_mldfHmG7gcf0bdk6zLPyGlnsAhHT&_nc_ohc=FAjnuaTMRFoAX-V7us8&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfDMukRzPmJvOaDb93Uw1lqOZ62LuIXAc2nf3jSHL-3k0w&oe=650E998F)
-
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Java Script/ React JS/Node JS/Express JS/MongoDB
